@@ -18,28 +18,47 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # <i class="fa fa-id-card" aria-hidden="true"></i>&ensp; About Me
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=jqslgHAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am a research assistant at [**BGI Research**](https://en.genomics.cn/), utilizing large language models to predict health with human microbiome. I earned my Bachelor's degree in Medicine with a specialization in Preventive Medicine from [**Sun Yat-sen University**](https://www.sysu.edu.cn/sysuen/), honored to be advised by  [Prof. Qian Jun](https://phs.sysu.edu.cn/zh-hans/teacher/510). Previously, I completed a clinical internship at [**the Seventh Affiliated Hospital, Sun Yat-sen University**](https://www.sysush.com/en). To date, I have published 7 research papers with <a href='https://scholar.google.com/citations?user=jqslgHAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+<span style="color: purple;">I am now preparing to pursue a PhD, with the intention of enrolling in either the School of Computer Science or the School of Medicine. If your research team has opportunities that align with my background and aspirations, I would be thrilled to discuss. Feel free to contact me!</span>
 
 My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
+- AI in Healthcare
+- Machine Learning and Deep Learning
+- Statistical analysis
+- Medical imaging analysis
+- Natural Language Processing
+- Programming
 
 
-# 🎓 Educations 
+<!-- # 🎓 Educations 
 - *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
- 
+- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China.  -->
+<span class='anchor' id='educations'></span>
+# <i class="fa fa-graduation-cap" aria-hidden="true"></i>&ensp;Education
+<div id="Education" class="bio">
 
-# 📝 Publications 
+  
+  <div class="bio-body" style="overflow:hidden;">
+    <table>
+      <tbody>
+        <tr >
+          <td width="90%" style="border-bottom: none">
+              <strong>BMed</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep. 2018 - Jun. 2023 <br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Sun Yat-sen University (SYSU)</b> , Guangzhou, China.<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Preventive Medicine<br> 
+          </td>
+          <td width="10%" style="border-bottom: none">
+            <img src="images/SYSU.png" width="90%" style="display: block; margin-left: auto; margin-right: auto;">
+          </td>
+        </tr>
+    </tbody></table>
+  </div>
+  <br>
+</div>
 
-### English 
----
+<span class='anchor' id='publications'></span>
+# <i class="fa fa-book" aria-hidden="true" ></i> &ensp;Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
