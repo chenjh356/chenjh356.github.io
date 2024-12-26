@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# <i class="fa fa-id-card" aria-hidden="true"></i>&ensp; About Me
 I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
  <a href='https://scholar.google.com/citations?user=jqslgHAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
