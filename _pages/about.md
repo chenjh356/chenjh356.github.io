@@ -32,28 +32,11 @@ My research interest includes:
 
 
 <!-- # 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China.  -->
+ -->
 <span class='anchor' id='educations'></span>
 # <i class="fa fa-graduation-cap" aria-hidden="true"></i>&ensp;Education
-<div id="Education" class="bio">
-
-  
-  <div class="bio-body" style="overflow:hidden;">
-    <table>
-      <tbody>
-        <tr >
-          <td width="90%" style="border-bottom: none">
-              <strong>BMed</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep. 2018 - Jun. 2023 <br>
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Sun Yat-sen University (SYSU)</b> , Guangzhou, China.<br>
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Preventive Medicine<br> 
-          </td>
-          <td width="10%" style="border-bottom: none">
-            <img src="images/SYSU.png" width="90%" style="display: block; margin-left: auto; margin-right: auto;">
-          </td>
-        </tr>
-    </tbody></table>
-  </div>
+<div id="Education" class="bio" style="margin-bottom:-15px">
+    {% include educations.html %}
   <br>
 </div>
 

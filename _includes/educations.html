@@ -1,0 +1,17 @@
+<div class="bio-body" style="overflow:hidden;">
+{% for edu in site.education %}
+<div class="container">
+    <div class="degree">
+        <strong>{{ edu.degree }}</strong>
+    </div>
+    <div class="details">
+        <span class="date">{{ edu.time }}</span><br>
+        <strong>{{ edu.institution }}</strong>, {{edu.location}}.<br>
+        {{edu.major}}
+    </div>
+    <div class="image">
+        <img src="{{edu.img}}" alt="SYSU" />
+    </div>
+</div>
+{% endfor %}
+</div>

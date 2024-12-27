@@ -58,6 +58,14 @@ author:
   youtube          :
   wikipedia        :
 
+education:
+  - degree: "BMed"
+    major: "Preventive Medicine"
+    institution: "Sun Yat-sen University(SYSU)"
+    time: "Sep. 2018 - Jun. 2023"
+    location: "Guangzhou, China"
+    img: "images/SYSU.png"
+
 
 # Reading Files
 include:
