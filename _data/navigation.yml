@@ -6,14 +6,27 @@ main:
   - title: "Educations"
     url: "/#educations"
 
+  - title: "Experiences"
+    url: "/#experiences"
+
   - title: "Publications"
     url: "/#publications"
 
+  - title: "Patents"
+    url: "/#patents"
+
+  - title: "Softwares"
+    url: "/#softwares"
+
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Conferences"
-    url: "/#-conferences"
+    url: "/#conferences"
 
-  - title: "Internships"
-    url: "/#-internships"
+  
+  - title: "Teaching"
+    url: "/#teaching"
+
+  - title: "Miscellaneous"
+    url: "/#miscellaneous"

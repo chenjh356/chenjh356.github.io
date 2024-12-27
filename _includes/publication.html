@@ -14,15 +14,15 @@
 
 {% for author in pub.authors -%}
 {%- if author == site.author.name -%}
-<a href="javascript:void(0)">`{{ author }}`</a>
+<a href="#" onclick="event.preventDefault()">`{{ author }}`</a>
 {%- else -%}
-<a href="javascript:void(0)">{{ author }}</a>
+<a href="#" onclick="event.preventDefault()">{{ author }}</a>
 {%- endif -%}
 {%- if forloop.last == false %},&nbsp;{%- else %}.&nbsp;{%- endif %}
 {%- endfor %}
 
 <span style="color: red;">({{pub.position}})</span>
-<span style="color: blue;">*{{pub.journal}}*. {{pub.other}}. (JCR:{{pub.JCR}}; IF:{{pub.IF}}) </span>
+<span style="color: blue;">***{{pub.journal}}***. {{pub.other}}. (JCR:{{pub.JCR}}; IF:{{pub.IF}}) </span>
 
 [[HTML]]({{pub.html}}) &emsp;[[PDF]]({{pub.pdf}})
 
@@ -30,18 +30,18 @@
 </div>
 
 {% else %}
-- **{{pub.title}}**
+- **{{pub.title}}**&ensp;
 {%- for author in pub.authors -%}
 {%- if author == site.author.name -%}
-<a href="javascript:void(0)">`{{ author }}`</a>
+<a href="#" onclick="event.preventDefault()">`{{ author }}`</a>
 {%- else -%}
-<a href="javascript:void(0)">{{ author }}</a>
+<a href="#" onclick="event.preventDefault()">{{ author }}</a>
 {%- endif -%}
 {%- if forloop.last == false -%},&nbsp;{%- else -%}.&nbsp;{%- endif -%}
 {%- endfor %}
 <span style="color: red;">({{pub.position}})</span>
-<span style="color: blue;">*{{pub.journal}}*. {{pub.other}}. (JCR:{{pub.JCR}}; IF:{{pub.IF}}) </span>
-[[HTML]]({{pub.html}})&emsp;[[PDF]]({{pub.pdf}})
+<span style="color: blue;">***{{pub.journal}}***. {{pub.other}}. (JCR:{{pub.JCR}}; IF:{{pub.IF}}) </span>
+&emsp;[[HTML]]({{pub.html}})&emsp;[[PDF]]({{pub.pdf}})
 {% endif %}
 
 {% endfor %}

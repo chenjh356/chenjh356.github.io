@@ -68,23 +68,7 @@ education:
 
 publications:
   - title: "Unraveling the impact of host genetics and factors on the urinary microbiome in a young population."
-    authors: 
-      - "Leying Zou"
-      - "Zhe Zhang"
-      - "Junhong Chen"
-      - "Ruijin Guo"
-      - "Xin Tong"
-      - "Yanmei Ju"
-      - "Haorong Lu"
-      - "Huanming Yang"
-      - "Jian Wang"
-      - "Yang Zong"
-      - "Xun Xu"
-      - "Xin Jin"
-      - "Liang Xiao"
-      - "Huijue Jia"
-      - "Tao Zhang"
-      - "Xiaomin Liu"
+    authors: ["Leying Zou","Zhe Zhang","Junhong Chen","Ruijin Guo","Xin Tong","Yanmei Ju","Haorong Lu","Huanming Yang","Jian Wang","Yang Zong","Xun Xu","Xin Jin","Liang Xiao","Huijue Jia","Tao Zhang","Xiaomin Liu"]
     journal: "mBio"
     year: "2024"
     img: "images/urine.png"
@@ -107,21 +91,80 @@ publications:
     JCR: "Q1"
     IF: "4.4"
 
-  - title: "A novel method for the detection of ferromagnetic materials based on the magnetic flux leakage."
-    authors: 
-      - "Junhong Chen"
-      - "Yong Zhang"
-      - "XYZ"
-      - "ZZ"
-    journal: "Sensors"
-    year: "2021"
+  - title: "CT-based deep learning model for the prediction of DNA mismatch repair deficient colorectal cancer: a diagnostic study."
+    authors: [Wuteng Cao, Huabin Hu, Jirui Guo, Qiyuan Qin, Yanbang Lian, Jiao Li, Qianyu Wu, Junhong Chen, Xinhua Wang, Yanhong Deng]
+    journal: "Journal of Translational Medicine"
+    year: "2023"
+    img: "images/TM.png"
+    position: "Author"
+    html: "https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-04023-8"
+    pdf: "/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf"
+    other: "2023"
+    JCR: "Q1"
+    IF: "6.1"
+
+  - title: "China special issue on gastrointestinal tumors‐Radiological features of pathological complete response in mismatch repair deficient colorectal cancer after neoadjuvant PD‐1 blockade: A post hoc analysis of the PICC phase II trial"
+    authors: [Wuteng Cao, Huabin Hu, Jiao Li, Qianyu Wu, Lishuo Shi, Biao Li, Jie Zhou, Xinhua Wang, Junhong Chen, Chao Wang, Huaiming Wang, Weihao Deng, Yan Huang, Yanhong Deng]
+    journal: "International Journal of Cancer"
+    year: "2023"
+    img: "images/ijc.png"
+    position: "Author"
+    html: "https://onlinelibrary.wiley.com/doi/10.1002/ijc.34647"
+    pdf: "/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf"
+    other: "2023"
+    JCR: "Q1"
+    IF: "5.7"
+
+  - title: "Texture analysis of apparent diffusion coefficient maps: can it identify nonresponse to neoadjuvant chemotherapy for additional radiation therapy in rectal cancer patients?"
+    authors: [Qianyu Wu, Yongju Yi, Bingjia Lai, Jiao Li, Yanbang Lian, Junhong Chen, Yue Wu, Xinhua Wang, Wuteng Cao]
+    journal: "Gastroenterology Report"
+    year: "2024"
     img:
-    position: "First Author"
-    html: "https://www.mdpi.com/1424-8220/21/1/1"
+    position: "Author"
+    html: "https://academic.oup.com/gastro/article/doi/10.1093/gastro/goae035/7656397"
+    pdf: "/pdf/TangJ-2022-A%20Novel%20Method%20for%20the%20Detection%20of%20Ferromagnetic%20Materials%20Based%20on%20the%20Magnetic%20Flux%20Leakage.pdf"
+    other: "2022, 22(9): 3587."
+    JCR: "Q2"
+    IF: "3.8"
+
+  - title: "Drivers and forecasts of multiple waves of the coronavirus disease 2019 pandemic: A systematic analysis based on an interpretable machine learning framework"
+    authors: [Zicheng Cao, Zekai Qiu, Feng Tang, Shiwen Liang, Yinghan Wang, Haoyu Long, Cai Chen, Bing Zhang, Chi Zhang, Yaqi Wang, Kang Tang, Jing Tang, Junhong Chen, Chunhui Yang, Yuzhe Xu, Yulin Yang, Shenglan Xiao, Dechao Tian, Guozhi Jiang, Xiangjun Du]
+    journal: "Transboundary and Emerging"
+    year: "2022"
+    img:
+    position: "Author"
+    html: "https://onlinelibrary.wiley.com/doi/10.1111/tbed.14492"
     pdf: "/pdf/TangJ-2022-A%20Novel%20Method%20for%20the%20Detection%20of%20Ferromagnetic%20Materials%20Based%20on%20the%20Magnetic%20Flux%20Leakage.pdf"
     other: "2022, 22(9): 3587."
     JCR: "Q1"
-    IF: "5.705"
+    IF: "3.5"
+
+  - title: "Statistical methods comparison for estimating the distribution of COVID-19 incubation period"
+    authors: [Yu Liu, Bingting Zhuo, Junhong Chen, Zhicheng Du, Yuantao Hao]
+    journal: "Chinese Journal of Health Statistics"
+    year: "2023"
+    img: 
+    position: "Author"
+    html: "http://dx.doi.org/10.11783/j.issn.1002-3674.2023.04.013"
+    pdf: "/pdf/cjhs-article.pdf"
+    other: "2023,40(4):540-545+548"
+    JCR: "PKU 1"
+    IF: "1.228"
+
+  - title: "Design and implementation of information technology service automation notification platform based on big data analysis."
+    authors: [Lin Luo, Jinping Luo, Junhong Chen]
+    journal: "East China Science and Technology"
+    year: "2023"
+    img: 
+    position: "Author"
+    html: "https://kns.cnki.net/kcms2/article/abstract?v=TI3o-D_a8xlCvzxU4YrVs8yJAThkI8pTjAl9jcrULLHhY2pD0VHtRs2hJL5rO1ofCoFvTBD4t-iNKgOtBi9NrwS0t0Z83kd2YOr8o-OS6S61uXL-LkUAjImsHgv3l2lfdqoL-JjKB4htHAz4aHoipvCFT5_xmdb8k_lRYUOXfIsC0hGe3MNQlEdMC05QSPVq&uniplatform=NZKPT&language=CHS"
+    pdf: "/pdf/cjhs-article.pdf"
+    other: "2023,(08):101-103"
+    JCR: "Provincial-level technical category"
+    IF: "-"
+
+  
+  
 # Reading Files
 include:
   - .htaccess

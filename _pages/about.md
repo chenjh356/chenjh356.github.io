@@ -45,19 +45,27 @@ My research interest includes:
 {% include publication.html %}
 
 
-# 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
+<span class='anchor' id='honors-and-awards'></span>
+# 🏅&ensp; Selected Honors and Awards
+- *2023.12* &emsp;Dragon Soars, Tiger Leaps Award (for deploying and optimizing automation processes, awarded by BGI)
+- *2022.09* &emsp;Sun Yat-sen University Scholarship.
+- *2021.04*  &emsp;Meritorious Winner of Interdisciplinary Contest In Modeling ([COMAP](https://www.comap.com/))
+- *2020.06* &emsp;Excellence Award of Guangdong Health Science Popularization Competition
+- *2019.09* &emsp;Sun Yat-sen University Scholarship.
+- *2016.09* &emsp;Song Qingling Scholarship ([GUANG DONG SONG QING LING FOUNDATION](http://www.gdsclf.org/)).
 
-# 💬 Conferences
+<span class='anchor' id='conferences'></span>
+# 💬&ensp; Conferences
+- *2024.11* &emsp;The 19th Annual Meeting of the International Conference on Genomics ([ICG-19](https://en.genomics.cn/en-news-278-7053.html)), Shenzhen China, Visitor and Volunteer.
+- *2024.06* &emsp;Academic Conference on Modern Life Science-based Health Management, Wuhan China, Honored guest.
 
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
+<span class='anchor' id='teaching'></span>
+# <i class="fa fa-chalkboard-teacher"></i>&ensp; Teaching
 
+- *2024.09* &emsp;**BGI Cource: Design and case analysis of meta-genome association study**. Teaching Assistant (TA), with A.R. [Xiaomin Liu](https://scholar.google.com/citations?user=rUwI1DkAAAAJ)
 
-# 🏭 Internships
+<span class='anchor' id='miscellaneous'></span>
+# <i class="fa fa-heartbeat" aria-hidden="true" ></i>&ensp; Miscellaneous
 - *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
 - *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
 - *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
