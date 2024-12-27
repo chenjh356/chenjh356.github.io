@@ -1,0 +1,47 @@
+{% for pub in site.publications %}
+{% if pub.img %}
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">{{ pub.journal }} {{ pub.year }}</div>
+<img src='{{pub.img}}' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+**{{ pub.title }}**
+
+
+{% for author in pub.authors -%}
+{%- if author == site.author.name -%}
+<a href="javascript:void(0)">`{{ author }}`</a>
+{%- else -%}
+<a href="javascript:void(0)">{{ author }}</a>
+{%- endif -%}
+{%- if forloop.last == false %},&nbsp;{%- else %}.&nbsp;{%- endif %}
+{%- endfor %}
+
+<span style="color: red;">({{pub.position}})</span>
+<span style="color: blue;">*{{pub.journal}}*. {{pub.other}}. (JCR:{{pub.JCR}}; IF:{{pub.IF}}) </span>
+
+[[HTML]]({{pub.html}}) &emsp;[[PDF]]({{pub.pdf}})
+
+</div>
+</div>
+
+{% else %}
+- **{{pub.title}}**
+{%- for author in pub.authors -%}
+{%- if author == site.author.name -%}
+<a href="javascript:void(0)">`{{ author }}`</a>
+{%- else -%}
+<a href="javascript:void(0)">{{ author }}</a>
+{%- endif -%}
+{%- if forloop.last == false -%},&nbsp;{%- else -%}.&nbsp;{%- endif -%}
+{%- endfor %}
+<span style="color: red;">({{pub.position}})</span>
+<span style="color: blue;">*{{pub.journal}}*. {{pub.other}}. (JCR:{{pub.JCR}}; IF:{{pub.IF}}) </span>
+[[HTML]]({{pub.html}})&emsp;[[PDF]]({{pub.pdf}})
+{% endif %}
+
+{% endfor %}

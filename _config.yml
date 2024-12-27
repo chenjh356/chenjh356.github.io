@@ -66,7 +66,62 @@ education:
     location: "Guangzhou, China"
     img: "images/SYSU.png"
 
+publications:
+  - title: "Unraveling the impact of host genetics and factors on the urinary microbiome in a young population."
+    authors: 
+      - "Leying Zou"
+      - "Zhe Zhang"
+      - "Junhong Chen"
+      - "Ruijin Guo"
+      - "Xin Tong"
+      - "Yanmei Ju"
+      - "Haorong Lu"
+      - "Huanming Yang"
+      - "Jian Wang"
+      - "Yang Zong"
+      - "Xun Xu"
+      - "Xin Jin"
+      - "Liang Xiao"
+      - "Huijue Jia"
+      - "Tao Zhang"
+      - "Xiaomin Liu"
+    journal: "mBio"
+    year: "2024"
+    img: "images/urine.png"
+    position: "Co-First"
+    html: "https://journals.asm.org/doi/10.1128/mbio.02773-24"
+    pdf: "/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf"
+    other: "2024: e02773-24"
+    JCR: "Q1"
+    IF: "5.9"
+  
+  - title: "Deep Learning Assisted Classification of T1ρ-MR Based Intervertebral Disc Degeneration Phases."
+    authors: [Yanrun Li, Meiyu Hu, Junhong Chen, Zemin Ling, Xuenong Zou, Wuteng Cao, Fuxin Wei]
+    journal: "JMRI"
+    year: "2024"
+    img: "images/jmri29499.png"
+    position: "Co-First"
+    html: "https://onlinelibrary.wiley.com/doi/10.1002/jmri.29499"
+    pdf: "/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf"
+    other: "2024"
+    JCR: "Q1"
+    IF: "4.4"
 
+  - title: "A novel method for the detection of ferromagnetic materials based on the magnetic flux leakage."
+    authors: 
+      - "Junhong Chen"
+      - "Yong Zhang"
+      - "XYZ"
+      - "ZZ"
+    journal: "Sensors"
+    year: "2021"
+    img:
+    position: "First Author"
+    html: "https://www.mdpi.com/1424-8220/21/1/1"
+    pdf: "/pdf/TangJ-2022-A%20Novel%20Method%20for%20the%20Detection%20of%20Ferromagnetic%20Materials%20Based%20on%20the%20Magnetic%20Flux%20Leakage.pdf"
+    other: "2022, 22(9): 3587."
+    JCR: "Q1"
+    IF: "5.705"
 # Reading Files
 include:
   - .htaccess
