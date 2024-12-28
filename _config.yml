@@ -74,7 +74,7 @@ publications:
     img: "images/urine.png"
     position: "Co-First"
     html: "https://journals.asm.org/doi/10.1128/mbio.02773-24"
-    pdf: "/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf"
+    pdf: "/pdf/unraveling-the-impact-of-host-genetics-and-factors-on-the-urinary-microbiome-in-a-young-population.pdf"
     other: "2024: e02773-24"
     JCR: "Q1"
     IF: "5.9"
@@ -86,7 +86,7 @@ publications:
     img: "images/jmri29499.png"
     position: "Co-First"
     html: "https://onlinelibrary.wiley.com/doi/10.1002/jmri.29499"
-    pdf: "/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf"
+    pdf: "/pdf/Magnetic%20Resonance%20Imaging%20-%202024%20-%20Li%20-%20Deep%20Learning%20Assisted%20Classification%20of%20T1%20%E2%80%90MR%20Based%20Intervertebral%20Disc.pdf"
     other: "2024"
     JCR: "Q1"
     IF: "4.4"
@@ -98,8 +98,8 @@ publications:
     img: "images/TM.png"
     position: "Author"
     html: "https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-04023-8"
-    pdf: "/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf"
-    other: "2023"
+    pdf: "/pdf/s12967-023-04023-8.pdf"
+    other: "21, 214 (2023)"
     JCR: "Q1"
     IF: "6.1"
 
@@ -110,20 +110,20 @@ publications:
     img: "images/ijc.png"
     position: "Author"
     html: "https://onlinelibrary.wiley.com/doi/10.1002/ijc.34647"
-    pdf: "/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf"
-    other: "2023"
+    pdf: "/pdf/Intl%20Journal%20of%20Cancer%20-%202023%20-%20Cao%20-%20China%20special%20issue%20on%20gastrointestinal%20tumors%E2%80%90Radiological%20features%20of%20pathological.pdf"
+    other: "2023; 153(11): 1894-1903"
     JCR: "Q1"
     IF: "5.7"
 
-  - title: "Texture analysis of apparent diffusion coefficient maps: can it identify nonresponse to neoadjuvant chemotherapy for additional radiation therapy in rectal cancer patients?"
+  - title: "Texture analysis of apparent diffusion coefficient maps: can it identify nonresponse to neoadjuvant chemotherapy for additional radiation therapy in rectal cancer patients"
     authors: [Qianyu Wu, Yongju Yi, Bingjia Lai, Jiao Li, Yanbang Lian, Junhong Chen, Yue Wu, Xinhua Wang, Wuteng Cao]
     journal: "Gastroenterology Report"
     year: "2024"
     img:
     position: "Author"
     html: "https://academic.oup.com/gastro/article/doi/10.1093/gastro/goae035/7656397"
-    pdf: "/pdf/TangJ-2022-A%20Novel%20Method%20for%20the%20Detection%20of%20Ferromagnetic%20Materials%20Based%20on%20the%20Magnetic%20Flux%20Leakage.pdf"
-    other: "2022, 22(9): 3587."
+    pdf: "/pdf/goae035.pdf"
+    other: "Volume 12, 2024, goae035"
     JCR: "Q2"
     IF: "3.8"
 
@@ -134,35 +134,84 @@ publications:
     img:
     position: "Author"
     html: "https://onlinelibrary.wiley.com/doi/10.1111/tbed.14492"
-    pdf: "/pdf/TangJ-2022-A%20Novel%20Method%20for%20the%20Detection%20of%20Ferromagnetic%20Materials%20Based%20on%20the%20Magnetic%20Flux%20Leakage.pdf"
-    other: "2022, 22(9): 3587."
+    pdf: "/pdf/Transbounding%20Emerging%20Dis%20-%202022%20-%20Cao%20-%20Drivers%20and%20forecasts%20of%20multiple%20waves%20of%20the%20coronavirus%20disease%202019%20pandemic%20.pdf"
+    other: "69, e1584–e1594"
     JCR: "Q1"
     IF: "3.5"
 
-  - title: "Statistical methods comparison for estimating the distribution of COVID-19 incubation period"
+  - title: "(Chinese)Statistical methods comparison for estimating the distribution of COVID-19 incubation period"
     authors: [Yu Liu, Bingting Zhuo, Junhong Chen, Zhicheng Du, Yuantao Hao]
     journal: "Chinese Journal of Health Statistics"
     year: "2023"
     img: 
     position: "Author"
     html: "http://dx.doi.org/10.11783/j.issn.1002-3674.2023.04.013"
-    pdf: "/pdf/cjhs-article.pdf"
+    pdf: "pdf/COVID-19%E6%BD%9C%E4%BC%8F%E6%9C%9F%E5%88%86%E5%B8%83%E4%BC%B0%E8%AE%A1%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%96%B9%E6%B3%95%E6%AF%94%E8%BE%83.pdf"
     other: "2023,40(4):540-545+548"
     JCR: "PKU 1"
     IF: "1.228"
 
-  - title: "Design and implementation of information technology service automation notification platform based on big data analysis."
+  - title: "(Chinese)Design and implementation of information technology service automation notification platform based on big data analysis."
     authors: [Lin Luo, Jinping Luo, Junhong Chen]
     journal: "East China Science and Technology"
     year: "2023"
     img: 
     position: "Author"
     html: "https://kns.cnki.net/kcms2/article/abstract?v=TI3o-D_a8xlCvzxU4YrVs8yJAThkI8pTjAl9jcrULLHhY2pD0VHtRs2hJL5rO1ofCoFvTBD4t-iNKgOtBi9NrwS0t0Z83kd2YOr8o-OS6S61uXL-LkUAjImsHgv3l2lfdqoL-JjKB4htHAz4aHoipvCFT5_xmdb8k_lRYUOXfIsC0hGe3MNQlEdMC05QSPVq&uniplatform=NZKPT&language=CHS"
-    pdf: "/pdf/cjhs-article.pdf"
+    pdf: "/pdf/%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%9A%84%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%8D%E5%8A%A1%E8%87%AA%E5%8A%A8%E5%8C%96%E9%80%9A%E7%9F%A5%E5%B9%B3%E5%8F%B0%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf"
     other: "2023,(08):101-103"
     JCR: "Provincial-level technical category"
     IF: "-"
 
+patents:
+  - title: "The combination of 12 biomarkers for high triglycerides and their application"
+    authors: [Junhong Chen, Xiaomin Liu, Tao Zhang]
+    appno: "P2024-1-0266.CN"
+    authno: 
+    html: 
+    pdf: 
+
+  - title: "Methods and applications for predicting colorectal cancer risk based on the llama large language model using gut microbiota"
+    authors: [Junhong Chen, Zhe Zhang, Kexin Zhang, Chao Zhang, Peng Yin, Zhuye Jie, Xin Tong, Tao Zhang, Yong Zhang]
+    appno: P2024-1-0273.CN
+    authno: 
+    html: 
+    pdf: 
+
+  - title: Methods and applications for predicting inflammatory bowel disease risk based on the llama large language model using gut microbiota
+    authors: [Junhong Chen, Chao Zhang, Zhe Zhang, Peng Yin, Lihui Wang, Kexin Zhang, Tao Zhang, Yong Zhang]
+    appno: 
+    authno: 
+    html: 
+    pdf: 
+
+  - title: "The combination of 15 biomarkers for hyperuricemia and its application"
+    authors: [Xiaomin Liu, Junhong Chen, Tao Zhang]
+    appno: "P2024-1-0265.CN"
+    authno: 
+    html: 
+    pdf:
+
+  - title: "Methods and applications for predicting vital health indices based on llama large language model with human commensal flora"
+    authors: [Zhe Zhang, Junhong Chen, Peng Yin, Chao Zhang, Kexin Zhang, Tao Zhang, Yong Zhang]
+    appno: 
+    authno: 
+    html: 
+    pdf: 
+
+softwares:
+  - title: "Pathology section cell counting software"
+    authors: [Wuteng Cao, Junhong Chen,Yuzhe Xu,  Jiao Li, Xinhua Wang, Qianyu Wu, Yue Wu]
+    regno: 2024SR0193449
+    html: https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2024SR0193449&keyWord=%E7%97%85%E7%90%86%E5%88%87%E7%89%87%E7%BB%86%E8%83%9E%E6%95%B0%E7%9B%AE%E7%BB%9F%E8%AE%A1%E8%BD%AF%E4%BB%B6&publicityType=ALL&registerDateType=ALL
+    pdf: pdf/pathology.pdf
+
+  - title: "Single cell analysis platform"
+    authors: [Wuteng Cao, Junhong Chen, Jiao Li, Yuzhe Xu, Qianyu Wu, Yue Wu, Xinhua Wang]
+    regno: 2024SR0025891
+    html: https://register.ccopyright.com.cn/publicInquiry.html?type=softList&registerNumber=2024SR0025891&keyWord=%E5%8D%95%E7%BB%86%E8%83%9E%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0&publicityType=ALL&registerDateType=ALL
+    pdf: pdf/singlecell.pdf
+    
   
   
 # Reading Files

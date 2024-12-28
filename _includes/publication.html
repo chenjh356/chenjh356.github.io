@@ -14,9 +14,9 @@
 
 {% for author in pub.authors -%}
 {%- if author == site.author.name -%}
-<a href="#" onclick="event.preventDefault()">`{{ author }}`</a>
+<a href="#" onclick="event.preventDefault()" style="white-space: nowrap;display: inline-block;">`{{ author }}`</a>
 {%- else -%}
-<a href="#" onclick="event.preventDefault()">{{ author }}</a>
+<a href="#" onclick="event.preventDefault()" style="white-space: nowrap;display: inline-block;">{{ author }}</a>
 {%- endif -%}
 {%- if forloop.last == false %},&nbsp;{%- else %}.&nbsp;{%- endif %}
 {%- endfor %}
@@ -33,9 +33,9 @@
 - **{{pub.title}}**&ensp;
 {%- for author in pub.authors -%}
 {%- if author == site.author.name -%}
-<a href="#" onclick="event.preventDefault()">`{{ author }}`</a>
+<a href="#" onclick="event.preventDefault()" style="white-space: nowrap;display: inline-block;">`{{ author }}`</a>
 {%- else -%}
-<a href="#" onclick="event.preventDefault()">{{ author }}</a>
+<a href="#" onclick="event.preventDefault()" style="white-space: nowrap;display: inline-block;">{{ author }}</a>
 {%- endif -%}
 {%- if forloop.last == false -%},&nbsp;{%- else -%}.&nbsp;{%- endif -%}
 {%- endfor %}
