@@ -118,7 +118,7 @@ My research interest includes:
 - *2024.09* &emsp;**BGI Cource: Design and case analysis of meta-genome association study**. Teaching Assistant (TA), with A.R. [Xiaomin Liu](https://scholar.google.com/citations?user=rUwI1DkAAAAJ)
 
 <span class='anchor' id='miscellaneous'></span>
-# <i class="fa fa-heartbeat" aria-hidden="true" ></i>&ensp; Miscellaneous
+# &nbsp;<i class="fa fa-heartbeat" aria-hidden="true" ></i>&ensp; Miscellaneous
 - I'm an sport nut. I love to play badminton and well master in it. I led my team in the badminton team competition as captain and won the championship at the BGI Fall Games in 2024! [[News](https://mp.weixin.qq.com/s/tOfF7diNTUB2ARJZrjgszg)]
 - Programming is one of my favorites. My best programming language is Python, and I especially enjoy writing code to implement features to make our lives easier, which gives me a great sense of accomplishment. Following is my works：
   - [Sun Yat-sen University Student Assistant Management Platform](https://sznc.home.ealeo.xyz:6443/admin)
