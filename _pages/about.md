@@ -101,6 +101,7 @@ My research interest includes:
 <span class='anchor' id='honors-and-awards'></span>
 # 🏅&ensp; Selected Honors and Awards
 - *2023.12* &emsp;Dragon Soars, Tiger Leaps Award (for deploying and optimizing automation processes, awarded by BGI)
+- *2023.01* &emsp;Outstanding Award of China Health Popular Science Competition [[Work](/pdf/%E5%88%86%E9%A4%90%E5%88%B6%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F.pdf)]&ensp;[[Certificate](/pdf/%E5%85%A8%E5%9B%BD%E7%A7%91%E6%99%AE%E5%A4%A7%E8%B5%9B.pdf)]
 - *2022.09* &emsp;Sun Yat-sen University Scholarship.
 - *2021.04*  &emsp;Meritorious Winner of Interdisciplinary Contest In Modeling ([COMAP](https://www.comap.com/)) [[Certificate](pdf/2112179.pdf)]
 - *2020.06* &emsp;Excellence Award of Guangdong Health Science Popularization Competition
