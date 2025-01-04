@@ -61,10 +61,10 @@ My research interest includes:
 {%- endfor %}
 **{{pat.title}}**&ensp;
 {%- if pat.appno -%}
-<br>Application number:&nbsp;<span style="color: red;">({{pat.appno}})</span>
+<br>Application number:&nbsp;<span>{{pat.appno}}</span>
 {%- endif -%}
 {%- if pat.authno -%}
-&ensp;Authorization number:&nbsp;<span style="color: red;">({{pat.authno}})</span>
+&ensp;Authorization number:&nbsp;<span>{{pat.authno}}</span>
 {%- endif -%}
 {%- if pat.html -%}
 &emsp;[[HTML]]({{pat.html}})
@@ -88,7 +88,7 @@ My research interest includes:
 {%- endfor %}
 **{{software.title}}**&ensp;
 {%- if software.regno -%}
-<br>Registration number:&nbsp;<span style="color: red;">{{software.regno}}</span>
+<br>Registration number:&nbsp;<span>{{software.regno}}</span>
 {%- endif -%}
 {%- if software.html -%}
 &emsp;[[HTML]]({{software.html}})
