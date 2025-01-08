@@ -201,10 +201,10 @@ patents:
 
   - title: "A convenient application method for staging disc degeneration based on T1ρ- MR"
     authors: [Fuxin Wei, Wuteng Cao, Yanrun Li, Junhong Chen, Zemin Ling]
-    appno: 
+    appno: 202411821869.2
     authno: 
     html: 
-    pdf: 
+    pdf: /pdf/202411821869.2.pdf
 
 softwares:
   - title: "Pathology section cell counting software"
