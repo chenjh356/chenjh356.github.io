@@ -67,6 +67,18 @@ education:
     img: "images/SYSU.png"
 
 publications:
+  - title: "Genos: A Human-Centric Genomic Foundation Model."
+    authors: ["Adi Lin", "Bin Xie", "Cheng Ye", "Cheng Wang", "Duoyuan Chen", "Ercheng Wang", "Fanfeng Lu", "Guirong Xue", "Haiqiang Zhang", "Jiajie Zhan", "Jianfeng Zhang", "Jiangshuan Pang", "Jianqiang Liang", "Jiawei Lin", "Jiaxin Ma", "Jie Hu", "Jing Ma", "Jinni Dong", "Jiongzhen Li", "Junchen Liu", "Junhong Chen", "Junyou Li", "Kai Ding", "Kaiwen Deng", "Kui Chen", "Lihui Wang", "Longqi Liu", "Ling Guo", "Liwen Xiong", "Luhao Yang", "Ming Cheng", "Nanning Chen", "Renzhong Chen", "Shanxin Sun", "Shaoshuai Li", "Shicheng Chen", "Shiping Liu", "Siwei Xie", "Suyan Liu", "Tao Zhou", "Wangyang Tang", "Weiqiang Zhang", "Xianyue Jiang", "Xianzhi Qi", "Xin Jin", "Xinjiang Tan", "Xinyue Hu", "Xun Xu", "Xuyang Feng", "Yafei Lu", "Yifan Gao", "Yong Shang", "Youzhe He", "Yue Yuan", "Yufan Wang", "Yuqi Liu", "Zhan Xiao", "Zhangyuan Meng", "Zhaorong Li", "Zhe Zhao", "Zheng Yang", "Zilin Wang"]
+    journal: "GigaScience"
+    year: "2025"
+    img: "images/Genos_model.png"
+    position: "contributed equally"
+    html: "https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/giaf132/8296738"
+    pdf: "/pdf/genos.pdf"
+    other: "giaf132"
+    JCR: "Q1"
+    IF: "11.1"
+
   - title: "Unraveling the impact of host genetics and factors on the urinary microbiome in a young population."
     authors: ["Leying Zou","Zhe Zhang","Junhong Chen","Ruijin Guo","Xin Tong","Yanmei Ju","Haorong Lu","Huanming Yang","Jian Wang","Yang Zong","Xun Xu","Xin Jin","Liang Xiao","Huijue Jia","Tao Zhang","Xiaomin Liu"]
     journal: "mBio"
