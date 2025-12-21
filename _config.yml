@@ -79,6 +79,18 @@ publications:
     JCR: "Q1"
     IF: "11.1"
 
+  - title: "MR-DELTAnet: A Longitudinal MRI-Transformer Model Predicting Pathological Complete Response and Revealing Immune Microenvironment via scRNA-seq in Locally Advanced Rectal Cancer"
+    authors: ["Wuteng Cao",  "Huaxian Chen",  "Jiao Li",  "Yihui Zheng",  "Liqing Xie",  "Guozhong Xiao",  "Zeyan Wang",  "Fen Yuan",  "Junhong Chen",  "Chongbao Sun",  "Jing Dai",  "Jinping Zeng",  "Xinhua Wang",  "Lei Wu",  "Hongcheng Lin"]
+    journal: "Advanced Science"
+    year: "2025"
+    img: "images/MR-DELTAnet.png"
+    position: "Author"
+    html: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202517721"
+    pdf: "/pdf/MR-DELTAnet.pdf"
+    other: "advs.202517721"
+    JCR: "Q1"
+    IF: "14.1"
+
   - title: "Unraveling the impact of host genetics and factors on the urinary microbiome in a young population."
     authors: ["Leying Zou","Zhe Zhang","Junhong Chen","Ruijin Guo","Xin Tong","Yanmei Ju","Haorong Lu","Huanming Yang","Jian Wang","Yang Zong","Xun Xu","Xin Jin","Liang Xiao","Huijue Jia","Tao Zhang","Xiaomin Liu"]
     journal: "mBio"
