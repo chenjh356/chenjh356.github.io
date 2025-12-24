@@ -110,7 +110,7 @@ My research interest includes:
 
 <span class='anchor' id='conferences'></span>
 # 💬&ensp; Conferences
-- *2025.10* &emsp; Invited Guest for the Metagenomics AI Special Session Roundtable Discussion at [ICG 20](images/ICG20.jpg).
+- *2025.10* &emsp;Invited Guest for the Metagenomics AI Special Session Roundtable Discussion at [ICG 20](images/ICG20.jpg).
 - *2024.11* &emsp;The 19th Annual Meeting of the International Conference on Genomics ([ICG-19](https://en.genomics.cn/en-news-278-7053.html)), Shenzhen China, Visitor and Volunteer.
 - *2024.06* &emsp;Academic Conference on Modern Life Science-based Health Management, Wuhan China, Honored guest.
 
