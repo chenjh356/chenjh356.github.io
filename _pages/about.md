@@ -110,11 +110,14 @@ My research interest includes:
 
 <span class='anchor' id='conferences'></span>
 # 💬&ensp; Conferences
+- *2025.10* &emsp; Invited Guest for the Metagenomics AI Special Session Roundtable Discussion at [ICG 20](images/ICG20.jpg).
 - *2024.11* &emsp;The 19th Annual Meeting of the International Conference on Genomics ([ICG-19](https://en.genomics.cn/en-news-278-7053.html)), Shenzhen China, Visitor and Volunteer.
 - *2024.06* &emsp;Academic Conference on Modern Life Science-based Health Management, Wuhan China, Honored guest.
 
 <span class='anchor' id='teaching'></span>
 # <i class="fa fa-chalkboard-teacher"></i>&ensp; Teaching
+
+- *2025.06* &emsp;**BGI Cource: DCSM Microbial Metagenomics Specialized Training**. Offering three courses: Introduction to R and practical operations, commonly used R packages (ggplot2, Vegan, DESeq2), AI tools-assisted bioinformatics analysis.
 
 - *2024.09* &emsp;**BGI Cource: Design and case analysis of meta-genome association study**. Teaching Assistant (TA), with A.R. [Xiaomin Liu](https://scholar.google.com/citations?user=rUwI1DkAAAAJ)
 
