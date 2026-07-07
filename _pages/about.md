@@ -106,7 +106,7 @@ My research interest includes:
 - *2021.04*  &emsp;Meritorious Winner of Interdisciplinary Contest In Modeling ([COMAP](https://www.comap.com/)) [[Certificate](pdf/2112179.pdf)]
 - *2020.06* &emsp;Excellence Award of Guangdong Health Science Popularization Competition
 - *2019.09* &emsp;Sun Yat-sen University Scholarship.
-- *2016.09* &emsp;Song Qingling Scholarship ([GUANG DONG SONG QING LING FOUNDATION](http://www.gdsclf.org/)).
+- *2016.09* &emsp;Song Qingling Scholarship ([GUANG DONG SONG QING LING FOUNDATION](http://www.gdsclf.org/)) [[Certificate](/images/songql.jpg)] .
 
 <span class='anchor' id='conferences'></span>
 # 💬&ensp; Conferences
