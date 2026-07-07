@@ -67,6 +67,18 @@ education:
     img: "images/SYSU.png"
 
 publications:
+  - title: "Genomic landscape of the human vaginal microbiome is linked to host genetics and population of origin"
+    authors: [Zhuye Jie, Weiting Liang, Qiuxia Ding, Xiaomin Liu, Yunhong Zhang, Na Chen, Shenghui Li, Xin Tong, Hongqin Gao, Ruike Lu, Xincheng Huang, Ruochun Guo, Junhong Chen, Jie Zhu, Zhe Zhang, Na Liu, Zhangwei Xie, Xiaman Wang, Le Qi, Yumei Li, Liang Xiao, Shaoqiao Zhang, Xin Jin, Xun Xu, Huanming Yang, Jian Wang, Fangqing Zhao, Huijie Jia, Karsten Kristiansen, Tao Zhang, Lilan Hao, Lan Zhu, Chen Chen]
+    journal: "Nature Genetics"
+    year: "2026"
+    img: "images/NG-vaginal.png"
+    position: "Author"
+    html: "https://www.nature.com/articles/s41588-026-02639-2"
+    pdf: "/pdf/ng_vaginal.pdf"
+    other: "Nat Genet"
+    JCR: "Q1"
+    IF: "25.5"
+    
   - title: "Genos: A Human-Centric Genomic Foundation Model."
     authors: ["Adi Lin", "Bin Xie", "Cheng Ye", "Cheng Wang", "Duoyuan Chen", "Ercheng Wang", "Fanfeng Lu", "Guirong Xue", "Haiqiang Zhang", "Jiajie Zhan", "Jianfeng Zhang", "Jiangshuan Pang", "Jianqiang Liang", "Jiawei Lin", "Jiaxin Ma", "Jie Hu", "Jing Ma", "Jinni Dong", "Jiongzhen Li", "Junchen Liu", "Junhong Chen", "Junyou Li", "Kai Ding", "Kaiwen Deng", "Kui Chen", "Lihui Wang", "Longqi Liu", "Ling Guo", "Liwen Xiong", "Luhao Yang", "Ming Cheng", "Nanning Chen", "Renzhong Chen", "Shanxin Sun", "Shaoshuai Li", "Shicheng Chen", "Shiping Liu", "Siwei Xie", "Suyan Liu", "Tao Zhou", "Wangyang Tang", "Weiqiang Zhang", "Xianyue Jiang", "Xianzhi Qi", "Xin Jin", "Xinjiang Tan", "Xinyue Hu", "Xun Xu", "Xuyang Feng", "Yafei Lu", "Yifan Gao", "Yong Shang", "Youzhe He", "Yue Yuan", "Yufan Wang", "Yuqi Liu", "Zhan Xiao", "Zhangyuan Meng", "Zhaorong Li", "Zhe Zhao", "Zheng Yang", "Zilin Wang"]
     journal: "GigaScience"
