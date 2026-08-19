@@ -67,6 +67,42 @@ education:
     img: "images/SYSU.png"
 
 publications:
+  - title: "Host genetic control of the oral microbiome and its links to human metabolism and immunity"
+    authors: [Xiaomin Liu, Yafeng Wang, Longke Zeng, Gewei Wang, Junhong Chen, Xinxin Chen,Yan Li, Rui Zhao, Daoming Wang, Xuanlin Huang, Bing Chen, Qun Zhou, Qinqin Meng,Jinquan Gong, Yong Zhang, Jian Wang, Min Guo, Yuxiang Yang, Hui Wang, Hongyan Zhou, Qijia Fu, Yuan Jia, Chuan Chen, Jingwei Huang, Rudai Bi, Zheng Zhang, Xun Xu, Xin Jin,Liang Xiao, Zhenhua Mao, Chao Nie, Tao Zhang, Yaohui Zhao]
+    journal: "Nature Genetics"
+    year: "2026"
+    img: "images/ng-charls.png"
+    position: "Co-First"
+    html: "https://www.nature.com/articles/s41588-026-02639-2"
+    pdf: "/pdf/ng_vaginal.pdf"
+    other: "2026"
+    JCR: "Q1"
+    IF: "25.5"
+
+  - title: "Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram"
+    authors: [Huinan Xu, Xuyang Feng, Junhong Chen, Junchen Liu, Kaiwen Deng, Kai Ding, Shengning Long, Jiaxue Shuai, zhaorong li, Shiping Liu, Guirong Xue, Zhan Xiao]
+    journal: "EMNLP"
+    year: "2026"
+    img: "images/gengram.png"
+    position: "Co-First"
+    html: "https://www.nature.com/articles/s41588-026-02639-2"
+    pdf: "/pdf/ng_vaginal.pdf"
+    other: "2026 ACL conference"
+    JCR: "CCF"
+    IF: "B"
+
+  - title: "Structural variants in the human genome associated with gut microbiome and blood metabolic traits with potential causal links"
+    authors: [Qun Zhou, Keqing Wang, Junhong Chen, Haoyu Wang, Xinjiang Tan, Xuanlin Huang, Zhiyin Lin, Xun Xu, Xin Jin, Shaoqiao Zhang, Liang Xiao, Yuanqiang Zou, Tao Zhang, Xiaomin Liu]
+    journal: "Advanced Science"
+    year: "2026"
+    img: "images/sv.png"
+    position: "Co-First"
+    html: "https://www.nature.com/articles/s41588-026-02639-2"
+    pdf: "/pdf/ng_vaginal.pdf"
+    other: "2026"
+    JCR: "Q1"
+    IF: "14.1"
+
   - title: "Genomic landscape of the human vaginal microbiome is linked to host genetics and population of origin"
     authors: [Zhuye Jie, Weiting Liang, Qiuxia Ding, Xiaomin Liu, Yunhong Zhang, Na Chen, Shenghui Li, Xin Tong, Hongqin Gao, Ruike Lu, Xincheng Huang, Ruochun Guo, Junhong Chen, Jie Zhu, Zhe Zhang, Na Liu, Zhangwei Xie, Xiaman Wang, Le Qi, Yumei Li, Liang Xiao, Shaoqiao Zhang, Xin Jin, Xun Xu, Huanming Yang, Jian Wang, Fangqing Zhao, Huijie Jia, Karsten Kristiansen, Tao Zhang, Lilan Hao, Lan Zhu, Chen Chen]
     journal: "Nature Genetics"
